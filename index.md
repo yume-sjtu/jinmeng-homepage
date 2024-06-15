@@ -1,20 +1,20 @@
-<img src="./jinmeng.jpg" width = "150" height = "220"  align=left />
+![image](https://github.com/yume-sjtu/yume-sjtu.github.io/assets/81575671/e3e1da77-11dc-4ea7-af33-3db50137f0ae)<img src="./jinmeng.jpg" width = "150" height = "220"  align=left />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Assistant Professor</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Associate Professor</strong>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>John Hopcroft Center for Computer Science</strong>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Shanghai Jiao Tong University</strong>  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contact</strong>:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-407, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SEIEE Bldg, 1-435, Shanghai Jiao Tong University, 800 Dongchuan Rd., Shanghai  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;jinm@sjtu.edu.cn  
 
 
 
 ## About me:
 
-I am an Assistant Professor and Ph.D. supervisor at John Hopcroft Center for Computer Science of Shanghai Jiao Tong University since February 2021. During 2018.07-2021.01, I was a postdoctoral researcher at Tsinghua University. I obtained my Ph.D., master's, and B.E. degree in the School of Information Science and Technology from Northwest university in 2018, 2015, and 2012.
+I am an Associate Professor and Ph.D. supervisor at John Hopcroft Center for Computer Science of Shanghai Jiao Tong University since February 2021. During 2018.07-2021.01, I was a postdoctoral researcher at Tsinghua University. I obtained my Ph.D., master's, and B.E. degree in the School of Information Science and Technology from Northwest university in 2018, 2015, and 2012.
 
 ## Prospective Students:
 
@@ -28,14 +28,21 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ## Awards:
 
+2023 ACM China Rising Star Award (2023ACM中国新星奖)
+
 2019 ACM China Doctoral Dissertation Award (2019 ACM中国优秀博士论文奖)  
 
 2019 CCF Outstanding Doctoral Dissertation Award (2019 CCF优秀博士论文奖)
 
 ## News:
 
-* [03, 2023] One papers accepted by ACM MobiSys 2023 with shepherding.
-* [11, 2022] Two papers accepted by ACM MobiCom 2023.
+* [05, 2024] "DBscatter" accepted to TMC.
+* [03, 2024] "HELLO accepted to UbiComp 2024.
+* [03, 2024] "FaB" accepted to ACM MobiSys 2024.
+* [12, 2023] "uTag" accepted to ACM MobiCom 2024.
+* [06, 2023] "Meta-Speaker" accepted to ACM MobiCom 2023.
+* [03, 2023] "SmartShell" accepted to ACM MobiSys 2023.
+* [11, 2022] "SpotSound" and "TaGroup" accepted to ACM MobiCom 2023.
 * [09, 2022] Two papers accepted by ACM SenSys 2022.
 * [06, 2022] One paper accepted by IEEE TMC.
 * [03, 2022] One paper accepted by ACM MobiSys 2022.
@@ -46,24 +53,30 @@ I am always looking for self-motivated students who are interested in pursuing a
 \* Corresponding author
 
 ### Journal:  
-
-1.	**Meng Jin***, Xinbing Wang, Chenghu Zhou, “Key Agreement on IoT Devices with Echo Profiling”, IEEE Transections on Networking (TON, CCF-A). 2022
-2.	**Meng Jin**, Yuan He, Songzhen Yang, Yunhao Liu, Li Yan, Yuyi Sun, "Versatile RFID-based Sensing: Model, Algorithm, and Applications", IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
-3.	Songzhou Yang, **Meng Jin**, Yuan He, “Continuous Gaze Tracking With Implicit Saliency-Aware Calibration on Mobile Devices” , IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
-4.	Junchen Guo, Yuan He, Chengkun Jiang, **Meng Jin**, Shuai Li, Jia Zhang, Rui Xi, Yunhao Liu, "Measuring Micrometer-Level Vibrations with mmWave Radar", IEEE Transactions on Mobile Computing (TMC, CCF-A). 2021
-5.	**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, " Parallel Backscatter: Channel Estimation and Beyond ", IEEE Transections on Networking (TON, CCF-A). 2021
-6.	**Meng Jin**, Yuan He, Xin Meng, Dingyi Fang, Xiaojiang Chen, "Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You", IEEE Transections on Networking (TON, CCF-A). 2020
-7.	**Meng Jin**, Yuan He, Xiaolong Zheng, Dingyi Fang, Dan Xu, Tianzhang Xing, Xiaojiang Chen, “Exploiting Interference Fingerprints for Predictable Wireless Concurrency”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
-8.	Yuan He, Yilun Zheng, **Meng Jin**, Songzhen Yang, Yunhao Liu, "RED: RFID-based Eccentricity Detection for High-speed Rotating Machinery", IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
-9.	**Meng Jin**, Yuan He, Xin Meng, Yilun Zheng, Dingyi Fang, Xiaojiang Chen, “FlipTracer: Practical Parallel Decoding for Backscatter Communication”, IEEE Transections on Networking (TON, CCF-A). 2019
-10.	**Meng Jin**, Yuan He, Dingyi Fang, Xiaojiang Chen, Xin Meng, Tianzhang Xing, “iGuard: A Real-Time Anti-Theft System for Smartphones”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2018
+1.  Bingbing Wang, Fengyuan Zhu, Linling Zhong, **Meng Jin***, Xinbing Wang, Cailian Chen, Xinping Guan, Chenghu Zhou, Xiaohua Tian, “Enabling Dual-band Wi-Fi Backscatter”, IEEE Transactions on Mobile Computing (TMC, CCF-A). 2024
+2.  **Meng Jin**, Yuan He, Yunhao Liu, Xinbing Wang, “Covert Communication with Acoustic Noise”, IEEE Transections on Networking (TON, CCF-A). 2023
+3.	**Meng Jin***, Xinbing Wang, Chenghu Zhou, “Key Agreement on IoT Devices with Echo Profiling”, IEEE Transections on Networking (TON, CCF-A). 2022
+4.	**Meng Jin**, Yuan He, Songzhen Yang, Yunhao Liu, Li Yan, Yuyi Sun, "Versatile RFID-based Sensing: Model, Algorithm, and Applications", IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
+5.	Songzhou Yang, **Meng Jin**, Yuan He, “Continuous Gaze Tracking With Implicit Saliency-Aware Calibration on Mobile Devices” , IEEE Transactions on Mobile Computing (TMC, CCF-A), Accepted. 2022
+6.	Junchen Guo, Yuan He, Chengkun Jiang, **Meng Jin**, Shuai Li, Jia Zhang, Rui Xi, Yunhao Liu, "Measuring Micrometer-Level Vibrations with mmWave Radar", IEEE Transactions on Mobile Computing (TMC, CCF-A). 2021
+7.	**Meng Jin**, Yuan He, Chengkun Jiang, Yunhao Liu, " Parallel Backscatter: Channel Estimation and Beyond ", IEEE Transections on Networking (TON, CCF-A). 2021
+8.	**Meng Jin**, Yuan He, Xin Meng, Dingyi Fang, Xiaojiang Chen, "Parallel Backscatter in the Wild: When Burstiness and Randomness Play with You", IEEE Transections on Networking (TON, CCF-A). 2020
+9.	**Meng Jin**, Yuan He, Xiaolong Zheng, Dingyi Fang, Dan Xu, Tianzhang Xing, Xiaojiang Chen, “Exploiting Interference Fingerprints for Predictable Wireless Concurrency”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
+10.	Yuan He, Yilun Zheng, **Meng Jin**, Songzhen Yang, Yunhao Liu, "RED: RFID-based Eccentricity Detection for High-speed Rotating Machinery", IEEE Transections on Mobile Computing (TMC, CCF-A). 2020
+11.	**Meng Jin**, Yuan He, Xin Meng, Yilun Zheng, Dingyi Fang, Xiaojiang Chen, “FlipTracer: Practical Parallel Decoding for Backscatter Communication”, IEEE Transections on Networking (TON, CCF-A). 2019
+12.	**Meng Jin**, Yuan He, Dingyi Fang, Xiaojiang Chen, Xin Meng, Tianzhang Xing, “iGuard: A Real-Time Anti-Theft System for Smartphones”, IEEE Transections on Mobile Computing (TMC, CCF-A). 2018
 
 
 
 ### Conference:  
 
-1.  **Meng Jin***, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/TaGroup.pdf)
-2.	Tingchao Fan, Huangwei Wu, **Meng Jin***, Tao Chen, Longfei Shangguan, Xinbing Wang, Chenghu Zhou, “Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/SpotSound.pdf)
+1.	Mingqi Xie, **Meng Jin***, Fengyuan Zhu, Yuzhe Zhang, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Enabling High-rate Backscatter Sensing at Scale”, ACM MobiCom 2024 (CCF-A).
+2.	Zimo Liao, **Meng Jin***, Shun An, Chaoyue Niu, Fan Wu, Tao Deng, Guihai Chen, “Waving Hand as Infrared Source for Ubiquitous Gas Sensing”, ACM UbiComp 2024 (CCF-A).
+3.	Bingbing Wang, Fengyuan Zhu, Wenhui Li, Zeming Yang, **Meng Jin**, Xiaohua Tian, “Frequency-agile OFDM Backscatter”, ACM MobiSys 2024 (CCF-B)
+4.	Weiguo Wang, Yuan He, **Meng Jin**, Yimiao Sun, Xiuzhen Guo, “Meta-Speaker: Acoustic Source Projection by Exploiting Air Nonlinearity”, ACM MobiCom 2023 (CCF-A).
+5.	**Meng Jin***, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, “Fast, Fine-grained, and Robust Grouping of RFIDs”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/TaGroup.pdf)
+6.	Tingchao Fan, Huangwei Wu, **Meng Jin***, Tao Chen, Longfei Shangguan, Xinbing Wang, Chenghu Zhou, “Towards Spatial Selection Transmission for Low-end IoT devices with SpotSound”, ACM MobiCom 2023 (CCF-A). [[PAPER]](https://github.com/yume-sjtu/yume-sjtu.github.io/raw/gh-pages/papers/SpotSound.pdf)
+7.	Linling Zhong, Mingwei Ouyang, Fengyuan Zhu, **Meng Jin**, Xinbing Wang, Xinping Guan, Chenghu Zhou, Xiaohua Tian, “SmartShell: A Near-Field Reflective Surface Enhancing RSS” , ACM MobiSys 2023 (CCF-B).
 3.	**Meng Jin***,  Shun Yao, Kexin Li, Xiaohua Tian, Xinbing Wang, Chenghu Zhou, Xinde Cao “A Passive Eye-in-Hand “Camera” for Miniature Robots”, ACM SenSys 2022 (CCF-B, 清华A类).
 4.	Fengyuan Zhu, Luwei Feng, **Meng Jin**, Xiaohua Tian, Xinbing Wang, Chenghu Zhou “Towards Ultra-low Power OFDMA Downlink Demodulation”, ACM SenSys 2022 (CCF-B, 清华A类).
 5.	**Meng Jin***, Yuan He, Yunhao Liu, Xinbing Wang, "Furtively Connecting IoT Devices with Acoustic Noise", ACM/IEEE IPSN 2022 (CCF-B, 清华A类).
@@ -89,4 +102,6 @@ I am always looking for self-motivated students who are interested in pursuing a
 
 ## Grants:
 
-Principal Investigator: National Natural Science Foundation of China, No. 61902213, Parallel Decoding for Backscatter Communication (面向无源感知网络的并发后向散射技术研究), 2020.01-2022.12.
+1.	Principal Investigator: National Natural Science Foundation of China, No. 62272293, Research on Backscatter Sensing for Fine-Grained Robotics (复杂环境下面向机器人的高精度多维无源感知技术研究), 2023.01-2026.12.
+2.	Principal Investigator: National Natural Science Foundation of China, No. 61902213, Parallel Decoding for Backscatter Communication (面向无源感知网络的并发后向散射技术研究), 2020.01-2022.12.
+
