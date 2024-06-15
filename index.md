@@ -1,5 +1,5 @@
-![image](https://github.com/yume-sjtu/yume-sjtu.github.io/assets/81575671/e3e1da77-11dc-4ea7-af33-3db50137f0ae)<img src="./jinmeng.jpg" width = "150" height = "220"  align=left />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>  
+<img src="./jinmeng.jpg" width = "150" height = "220"  align=left />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Meng Jin</strong>   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Associate Professor</strong>  
 
